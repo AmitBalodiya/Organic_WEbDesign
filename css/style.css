@@ -1,0 +1,335 @@
+
+
+     .front h3{
+     	color:blue;
+     }
+     .front h1 span{
+     	color: blue;
+     }
+     .front a{
+     	border-radius: 20px;
+     }
+     .navbar-light .navbar-nav .nav-link {
+     	margin: 0 18px;
+     	color: black;
+     	font-size: 15px;
+     	padding: 10px;
+     	border-radius: 20px;
+     .off h2 span{
+     }
+     .navbar-light .navbar-nav .nav-link:hover{
+     	background-color:blue;
+     	border-radius: 20px;
+     }
+     	color: black;
+     }
+
+	.off{
+		background-image:linear-gradient(#2E3192,#1BFFFF);	
+		padding: 60px 0px;
+	}
+	
+	.box h1{
+		color: white;
+	}
+	.box p{
+		color:white;
+	}
+	.off1{	
+		/*margin-left:523px;*/
+		text-align: center;
+		display:inline-block;
+
+	}
+	.our{
+		padding: 60px 0;
+		text-align: center;
+
+	}
+	.about{
+			margin: 15px 0;
+			padding: 5px;
+	}
+	.our span{
+		color:#40c8ff;
+	}
+	.our h1{
+		
+		position: relative;
+		display: inline-block;
+		border-left: 2px solid;
+		border-right: 2px solid;
+		padding: 0 12px;
+	}
+	.our h1:before{
+		content: "";
+		background-color: black;
+		height: 2px;
+		width: 77px;
+		position: absolute;
+   		 left: -79px;
+   		 bottom: 20px;
+	}
+	.our h1:after{
+		content: "";
+		background-color: black;
+		height: 2px;
+		width: 77px;
+		position: absolute;
+   		 right: -79px;
+   		 bottom: 20px;
+
+		}
+   .free{
+   	background-image: url(../images/l_blog3.png);
+   	background-repeat: no-repeat;
+   	background-size: cover;
+   	background-position: center;
+
+   }
+   .free_overlay{
+   	background-color: rgba(0, 0, 0, 0.6);
+   	padding: 60px 0;
+   }
+
+	.free h1{
+		color:blue;
+
+	}
+     .Happy{
+     	background-image: url(../project portfolio/images/img12.png)  -->
+     }
+
+	.web{
+		padding:15px;
+		margin: 15px 0;
+		text-align: center;
+		}
+	
+	.hosting{
+		background-imge:url(../project portfolio/images/img12.png);
+		padding: 60px 0;
+	}
+	 .hosting h1 span{
+    	color:blue;
+    }
+	.hosting h2 span{
+		font-size: 20px;
+	}
+	.hosting a{
+		border-radius: 20px;
+		text: center;
+	}
+	.hosting h1{
+		position: relative;
+		display: inline-block;
+		border-left: 2px solid black;
+		border-right: 2px solid black;
+		padding: 0 12px;
+	}
+	
+      .hosting h1:before{
+      	 content: "";
+      	 background-color: black;
+      	 height:2px ;
+      	 width: 78px;
+      	 position: absolute;
+      	 left:351px;
+      	 bottom:20px ;
+
+
+      }
+      .hosting h1:after{
+      	content: "";
+      	background-color: black;
+      	height:2px;
+      	width:78px;
+      	position: absolute;
+      	left:-78px;
+      	bottom: 20px;
+
+      }
+.Happy{
+	background-image: url(../images/img12.png);
+	background-size: cover;
+	padding:60px 0px;
+ }
+ .overlay0{
+ 	background-color: rgba(0, 0, 0, 0.9);
+ 	color: white;
+ 	background-color: black;
+ }
+ 			.www{
+ 				padding-top: 60px;
+ 			}
+
+ 	.www1 a{
+		border-radius: 20px;
+
+	}
+	
+	
+		
+	.do{
+		background-image:url(../images/img1.png);
+		padding: 100px 0px;
+    	position: relative;
+    	background-size: cover;
+    	background-position: center;
+    	margin-top: 60px;
+
+
+	}
+	.do2 a {
+		border-radius: 20px;
+		background-color:whitesmoke;
+	    color:blue;
+	    padding: 5px 21px;
+     }
+     .do1{
+     	padding: 60px 0;
+     	color: white;
+     }
+     .do2{
+     		padding: 80px 0;
+     	color: white;
+     }
+     .overlay1{
+     	background-color: rgba(0, 115, 305, 0.6);
+
+     	position: absolute;
+        top:0;
+        left:0;
+        bottom: 0;
+        right:0;
+        /*padding-top: 60px;
+        padding-bottom: 60px;
+*/
+        
+
+     	
+     }
+     .latest{
+	
+	padding: 60px;
+    }
+	.latest a{
+		border-radius: 20px;
+		height:30px;
+		width: 100px;
+	}
+		
+																																								
+		.latest  h2{
+		position: relative;
+		display: inline-block;
+		border-left: 2px solid;
+		border-right: 2px solid;
+		padding: 0 12px;
+	}
+	.latest  h2:before{
+		content: "";
+		background-color: black;
+		height: 2px;
+		width: 77px;
+		position: absolute;
+   		 left: -79px;
+   		 bottom: 20px;
+	}
+	.latest  h2:after{
+		content: "";
+		background-color: black;
+		height: 2px;
+		width: 77px;
+		position: absolute;
+   		 right: -79px;
+   		 bottom: 20px;
+
+		}
+	 .latest h2 span{
+	 	color: blue;
+	 }
+   
+	.amit h2 :before{
+		content: height: 2px;
+		width: 100;
+		background-image: seagreen;
+		position: absolute;
+		top:2010px;
+		left:600px;
+	}
+
+	.col-lg-3{
+			margin-bottom: 20px;
+	}
+	.latest1 h6{
+		margin-top: 18px;
+	}
+	.input{
+		position: relative;
+		width: 700px;
+		border-radius: 15px;
+		/*margin-left: -100px;*/
+	}
+	.search {
+		position: absolute;
+		 background-color: black;
+		color:white; 
+		border-radius:35px;
+		text-align: center;
+    padding: 7px 26px;
+    right: 50px;
+
+	}
+.item img{
+	border-radius: 50%;
+}
+.rjvr{
+	text-align: center;
+	background-color: BLACK;
+	color:whitesmoke;
+}
+
+		.rjvr  h2{
+		position: relative;
+		display: inline-block;
+		border-left: 2px solid;
+		border-right: 2px solid;
+		padding: 0 12px;
+	}
+	.rjvr  h2:before{
+		content: "";
+		background-color: whitesmoke;
+		height: 2px;
+		width: 77px;
+		position: absolute;
+   		 left: -79px;
+   		 bottom: 20px;
+	}
+	.rjvr  h2:after{
+		content: "";
+		background-color: whitesmoke;
+		height: 2px;
+		width: 77px;
+		position: absolute;
+   		 right: -79px;
+   		 bottom: 20px;
+
+		}
+		.rjvr{
+			padding-top: 100px;
+		}
+			.rjvr h2 span{
+				color:blue;
+			}
+			.rjvr h4 span{
+				color:blue;
+			}
+			.rjvr h3{
+				padding-top: 30px;
+				margin-left: -130px;
+			}
+			.rjvr h4{
+				margin-left: -130px;
+			}
+   
